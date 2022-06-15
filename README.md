@@ -1,5 +1,3 @@
-# DoctorCare1.0
-NLW project, landing page for doctors using HTML, CSS and JS. 
 # DoctorCare
 
 Responsive landing page for doctors. 
