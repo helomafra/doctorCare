@@ -2,8 +2,7 @@
 
 Responsive landing page for doctors. 
 
-
-
+[Access Here](https://helomafra.github.io/doctorCare)
 
 
 ## Features
